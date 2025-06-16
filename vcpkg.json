@@ -1,0 +1,5 @@
+{
+  "name": "pjt-curl-v2",
+  "version": "0.1.0",
+  "dependencies": [ "curl" ]
+}
